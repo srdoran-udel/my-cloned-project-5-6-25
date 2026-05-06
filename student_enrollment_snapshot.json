@@ -4,7 +4,7 @@
     "name": "Maya Patel",
     "email": "maya.patel@example.edu"
   },
-  "available_course_keys": [
+  "available_courses": [
     {
       "course_id": "DATA210",
       "course_name": "Data Storytelling",
@@ -24,7 +24,7 @@
       "enrollment_key": "WEB220-SPRING"
     }
   ],
-  "enrollment_table": [
+  "enrollment_records": [
     {
       "enrollment_id": 2,
       "user_id": "u100",
@@ -33,7 +33,7 @@
       "course_name": "Data Storytelling",
       "instructor": "Prof. Morgan",
       "status": "enrolled",
-      "enrolled_at": "2026-05-06 15:52:21"
+      "enrolled_at": "2026-05-06 16:21:53"
     },
     {
       "enrollment_id": 1,
