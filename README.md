@@ -38,3 +38,6 @@ python -m pip install --upgrade pip
 python -m pip install streamlit 
 
 python -m pip show streamlit
+
+
+#sophia doran note 5/6
